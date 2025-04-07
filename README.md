@@ -6,10 +6,6 @@ This repository contains organized study materials for the Microsoft Azure Funda
 
 ## Folder Structure
 
----
-
-## Contents
-
 ### Microsoft Learn
 - Official documentation: `Azure Fundamentals.docx`
 - Direct access to the Microsoft Learn AZ-900 learning path
